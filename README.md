@@ -6,6 +6,7 @@ Missing from (ideal) implementation:
 
 * Implementation of infrastructure layer (RabbitMQ queue for handling the elevator movement)
 * Implementation of API layer (CQRS + Mediator API for exposing methods for manipulating elevator)
+* Extracting domain logic from Entities and incorporate into Application Layer
 
 
 Considerations that needs to be considered carefully when building an elevator system
