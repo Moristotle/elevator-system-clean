@@ -1,6 +1,8 @@
 # elevator-system-clean-architecture
 Implementation of Elevator System using Clean Architecture - WIP 
 
+TODO: 
+* Add configuration and instantiation of Elevator System in Client/program.cs.
 
 Missing from (ideal) implementation: 
 
